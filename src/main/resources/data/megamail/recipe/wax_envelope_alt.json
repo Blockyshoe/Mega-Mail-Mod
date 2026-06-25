@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megamail:envelope"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+
+  "result": {
+    "count": 1,
+    "id": "megamail:wax_envelope"
+  }
+}
